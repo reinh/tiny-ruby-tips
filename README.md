@@ -3,7 +3,7 @@ Ruby tips that fit in a tweet!
 
 ## The Tips
 
-- [#1: Memoizing nil or false](#-1--memoizing-nil-or-false)
+- [#1: Memoizing nil or false](#1-memoizing-nil-or-false)
 
 ### #1: Memoizing nil or false
 
