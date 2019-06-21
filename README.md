@@ -8,11 +8,12 @@ Ruby tips that fit in a tweet!
 ### #1: Memoizing nil or false
 
 When you want to memoize a calculation that can return `nil` or `false`, you can check whether the instance variable is `defined?`.
+([discuss](https://twitter.com/ReinH/status/1142131218286145536))
 
 ```ruby
 def foo
   return @foo if defined? @foo
-  
+
   @foo = calculate_foo
 end
 ```
