@@ -31,7 +31,10 @@ end
 
 ### #2: Hide and show your cursor
 
-As a maker of excellent life decisions, you may one day discover you've lost your cursor. It happens. Just remember `\e[?25h`, the `\e[` escapes terminal instructions, `?number` is… IDK, probably a register address or smth. And `h` is for high/on ( `l` for low/off)
+As a maker of excellent life decisions, you may one day discover you've lost your cursor.
+It happens. Just remember `\e[?25h`. The `\e[` escapes terminal instructions,
+`?number` is… IDK, probably a register address or smth.
+And `h` is for high/on ( `l` for low/off)
 
 ![example](/assets/2-cursor.gif)
 
