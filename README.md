@@ -14,6 +14,7 @@ When you add a tip, use this for the Discuss button:
 
 - [#1: Memoizing nil or false](#1-memoizing-nil-or-false)
 - [#2: Hide / Show your cursor](#2-hide-and-show-your-cursor)
+- [#3: Dealing with annoying namespacing](#3-dealing-with-annoying-namespacing)
 
 ### #1: Memoizing nil or false
 
